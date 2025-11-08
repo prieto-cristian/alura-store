@@ -36,9 +36,9 @@ Los resultados muestran que **las diferencias entre tiendas son mínimas** en la
 ## 💡 Recomendación final
 
 👉 **Se recomienda vender la *Tienda 4*.**
-
+![Ingresos Totales por Tienda](grafica_ingresos.png)
 ### 🧾 Justificación:
-- La **Tienda 4 presenta los ingresos totales más bajos**, con una diferencia de **💲15,000**(dolares) respecto a la siguiente tienda con menor rendimiento.  
+- La **Tienda 4 presenta los ingresos totales más bajos**, con una diferencia de **💲59.643.900** pesos colombianos respecto a la siguiente tienda con menor rendimiento.  
 - En los demás indicadores (categorías vendidas, calificaciones, costos de envío), las diferencias son **poco relevantes o marginales**, por lo que **no alteran la decisión final**.
 - Mantener las tiendas con mejor facturación permitirá **optimizar los recursos y maximizar el retorno de inversión.**
 
